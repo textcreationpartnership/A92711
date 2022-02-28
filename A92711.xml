@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Die. 13. Octob. 1648. A new remonstrance from the Kings Majesty to all his loyall subjects in His three kingdoms of England, Scotland and Ireland, declaring his unchangable resolution concerning Episcopacy, and his intentions touching the booke of Common-Prayer. Also the ministers answer to the Kings three last scruples, with His Majesties reply to the said answer, and His answer to the Commissioners last paper. Signed, Charles R.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92711</idno>
+            <idno type="STC">Wing S199</idno>
+            <idno type="STC">Thomason E467_27</idno>
+            <idno type="STC">ESTC R205293</idno>
+            <idno type="EEBO-CITATION">99864706</idno>
+            <idno type="PROQUEST">99864706</idno>
+            <idno type="VID">162317</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92711)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162317)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E467[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Die. 13. Octob. 1648. A new remonstrance from the Kings Majesty to all his loyall subjects in His three kingdoms of England, Scotland and Ireland, declaring his unchangable resolution concerning Episcopacy, and his intentions touching the booke of Common-Prayer. Also the ministers answer to the Kings three last scruples, with His Majesties reply to the said answer, and His answer to the Commissioners last paper. Signed, Charles R.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>W. S.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.N.,</publisher>
+                  <pubPlace>Octob. 13. London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed on p. 10: Newport Octob. 10. W.S.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Church of England. --  Book of common prayer --  Early works to 1800.</term>
+               <term>Episcopacy --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162317:1" rendition="simple:additions"/>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="approbation">
+                        <opener>
+                           <dateline>
+                              <date>Die 13. Octob. 1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>A NEW REMONSTRANCE FROM The Kings Majeſty to all his Loyall Sub<g ref="char:EOLhyphen"/>jects in His three Kingdoms of <hi>England, Scotland</hi> and <hi>Ireland,</hi> Declaring his unchangable Reſolution concerning E<g ref="char:EOLhyphen"/>piſcopacy, and his intentions touching the booke of <hi>Common-Prayer.</hi> Alſo the Miniſters anſwer to the Kings three laſt Scrupler, with His Majeſties Reply to the ſaid Anſwer, And His Anſwer to the Commiſſioners laſt Paper.</p>
+                        <closer>
+                           <signed>Signed, CHARLES R.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>Peruſed and extracted out of the Originall Copies, and publiſhed by authority, for Generall ſatisfaction of all loyall and true-hearted ſub<g ref="char:EOLhyphen"/>jects within the Kingdom of</hi> England, <hi>and Principalities of</hi> Wales.</p>
+            <figure>
+               <figDesc>depiction of King Charles I</figDesc>
+            </figure>
+            <p>
+               <hi>Octob.</hi> 13. LONDON Printed for <hi>R. N.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162317:2"/>
+            <pb n="1" facs="tcp:162317:2"/>
+            <head>The Kings Majeſties moſt gracious Re<g ref="char:EOLhyphen"/>monſtrance to all His Loyall Subjects in his three Kingdomes of <hi>England Scot<g ref="char:EOLhyphen"/>land</hi> and <hi>Ireland,</hi> and his Reſolutions touching the Book of Common Prayer.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Honoured Sir,</salute>
+                  </opener>
+                  <p>HAving Received your letter dated the 8 of this inſtant; wherein you were pleaſed to<g ref="char:cmbAbbrStroke">̄</g> informe me of the preſent condition you are in; I doe re<g ref="char:EOLhyphen"/>turne you hearty thankes, and have ſent you the beſt in<g ref="char:EOLhyphen"/>telligence that I can poſſibly impart unto you which is as followeth; <hi>viz.</hi> That there hath been much debate about the <hi>Directory,</hi> but nothing don.</p>
+                  <p>The King in this debate askes, what fault they found in the <hi>Common Prayer Booke,</hi> one of the Commiſſianers ſaid, hee had heard it was the ſaying of a very learned man (and hee knew the King would confeſſe he was ſo) that the <hi>Liturgie</hi> was taken out of the Maſſe Book, one<g ref="char:EOLhyphen"/>ly ſpoyled in the tranſlation, who was that, ſaid his Majeſty? It was replyed, It was your Father King <hi>Iames:</hi> His Majeſty ſaid, If it were good in it ſelfe, that did not make it il: the King hath ſince made offer of a limited Epiſcopacie. And for the <hi>Militia</hi> Kings Majeſty and
+<pb n="2" facs="tcp:162317:3"/>the Commiſſioners have Enacted that it may be in the hands of the Parliament for 20. yeares, a Coppy of which Act followeth <hi>viz.</hi>
+                  </p>
+                  <p>Be it Enacted by the Kings Majeſty, &amp; by the Lords and Commons aſſembled in Parliament, &amp; by the ſame, That the Lords and Commons in the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> affembled, ſhall during the ſpace of twenty yeares, from the <gap reason="blank" extent="1 span">
+                        <desc>〈1 span left blank〉</desc>
+                     </gap> Arme, Train, and D<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cipline, or cauſe to bee Armed, Trained, and Diſciplined, all the Forces of this kingdoms of <hi>England</hi> and <hi>Irrland,</hi> and Domini<g ref="char:EOLhyphen"/>on of <hi>Wales</hi> the Iſles of <hi>Gurnſey,</hi> &amp; <hi>Jerſey,</hi> and the Town of <hi>Barwick</hi> upon <hi>Tweed,</hi> already raiſed both for Sea and Land ſervice, &amp; ſhall from time to time, during the ſaid ſpace of twenty years Ralſe, Leavy, Arme, Train, and Diſcipline, or cauſed to be raiſed, levyed, armed, trained, and diciplined any other forces for Land or Sea ſervice, in the Kingdoms, Dominions, and places aforeſaid, as in their iudgments they ſhall from time to time, during the ſaid ſpcce of twenty years think fit, and appoint: and that neither the King his Heirs or Suceeſiors, nor any o<g ref="char:EOLhyphen"/>ther, but ſuch as ſhall act by the Authority or approba<g ref="char:EOLhyphen"/>tion of the ſaid Lords and Commons, ſhall during the ſaid ſpace of twenty yeares, exerciſe any of the power aforeſaid.</p>
+                  <p>And that monies be raiſed and leavied for the main<g ref="char:EOLhyphen"/>tenance &amp; uſe of the ſaid forces for land ſervice, and of the Navy and Forces for ſea-ſervice, in ſuch ſort &amp; by ſuch wayes and meanes as the ſaid Lords &amp; Commons ſhall from time to time during the ſaid ſpace of 20 years think fit and appoint &amp; not otherwiſe. That all the ſaid Forces both for Land and Sea ſervice, ſo raiſed or leavi<g ref="char:EOLhyphen"/>ed or to be raiſed or leavied, &amp; alſo the Admiralty and Navy, ſhall from time to time during the ſaid ſpace of 20 yeares, be imployed, managed, ordered and diſpoſed
+<pb n="3" facs="tcp:162317:3"/>by the ſaid Lords and Commons in ſuch ſort, &amp; by ſuch waies and means as they ſhall think fit, &amp; appoint, And the ſaid Lords &amp; Commons during the ſaid ſpace of 20 yeares ſhall power. 1 To ſuppreſſ all forces rai<g ref="char:EOLhyphen"/>fed, without authority and concent of the ſaid Lords &amp; Commons, to the diſturbance of the publique peace of the Kingdomes of <hi>England</hi> and <hi>Ireland,</hi> and Dominion of <hi>Wales,</hi> &amp;c. 2 To ſuppreſſe any forraign Forces who ſhall invade, or indeavour to invade the Kingdoms of England and Ireldnd. Dominion of Wales, &amp;c. 3. To conjoyn ſuch forces of he Kingdom of England, as the ſaid Lords &amp; Commons ſhall from time to time during the ſaid ſpace of 20. years, judge fit and neceſſarie: To re<g ref="char:EOLhyphen"/>ſiſt all forrain invaſions, and to ſuppreſſe any forces, ra<g ref="char:EOLhyphen"/>ſed or to be raiſed againſt, or within the Kingdom to the diſturbance of the publike peace of the Kingdom, by a<g ref="char:EOLhyphen"/>ny authority under the great Seale, or other Warrant whatſoever without conſent of the ſaid Lords and Com<g ref="char:EOLhyphen"/>mons of the Parl. of England, And that after the expira<g ref="char:EOLhyphen"/>tion of the ſaid 20. years, neither the King, his Heirs or Suceeſſors, or any perſon or perſons, by colour or pre<g ref="char:EOLhyphen"/>tence of any Commiſſion power deputa<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>n of authori<g ref="char:EOLhyphen"/>ty to be derived from the King, his Hei<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> or Su<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>eſſors, or any of them ſhall raiſe, arme, train, diſ<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>e employ, order, mannage, disband, or diſpoſe any <gap reason="illegible" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> forces by Sea, or Land, of the kingdoms of England and Ireland, the Dominion of Wales, &amp;c. Nor exerciſe any of the ſaid powers or authorities in the precedent Articles mencioned and expreſſed to be during the ſaid ſpace of 20. years in the ſaid Lords and Commons; Nor do any Act or thing concerning the execution of the ſaid pow<g ref="char:EOLhyphen"/>ers, or authorities, or any of them without the conſent of the ſaid Lords and Commons firſt had, and obtained.</p>
+                  <pb n="4" facs="tcp:162317:4"/>
+                  <p> That after the expiration of the ſaid 20 yeares, in all caſes wherein the Lords and Commons ſhall declare the ſafety of this Kingdom to be concerned, and ſhall there<g ref="char:EOLhyphen"/>upon paſſe to any Bill or Bills for the raiſing, Arming, training, diſciplining, imploying, mannaging, ordering or diſpoſing of the forces by Sea or land, and the King<g ref="char:EOLhyphen"/>doms of <hi>England</hi> and <hi>Ireland</hi> the Dominion of <hi>Wales</hi> &amp;c. or concerning the Admiralty and Navy, or concerning the levying of monies for the rayſing, maintenance, uſe, of the ſaid forces for Land ſervice, or for the Navy, and forces for ſea ſervice, or for any part of them.</p>
+                  <p>And if that the Royall aſſent to ſuch Bill or bills ſhall not be given in the Houſe of Peers, within ſuch time af<g ref="char:EOLhyphen"/>ter the paſſing thereof by both Houſes of Parl. as the ſaid Houſes ſhall judge fit and convenient.</p>
+                  <p>That then ſuch Bill or Bills ſo paſſed, by the ſaid Lords and Commons as aforeſaid, and to which the Royall aſſent ſhall not be given as is herein before ex<g ref="char:EOLhyphen"/>preſſed, ſhall nevertheleſſe after declaration of the ſaid Lords and Commons made in that behalf, have the for<g ref="char:EOLhyphen"/>ce and ſtrength of an Act or Acts of Parl.: And ſhall be as valid to all intents and purpoſes, as if his Royall aſſent had ben given thereunto.</p>
+                  <p>Provided, that nothing herein before contained ſhall extend to the taking away of the ordinary Legall power or Sheriffs, Juſtices of peace, Mayors, Bayliffs, Coroners Conſtables, Headborows or other officers of juſtice, not being Miliiary Officers, concerning the adminiſtration of juſtice ſo as neither the ſaid Sheriffs, Juſtices of peace Mayors, &amp;c. nor any of them do leavy, conduct, imploy or Command any forces whatſoever, by collonr or pre<g ref="char:EOLhyphen"/>tence of any Commiſſion of Array, or extraordinary
+<pb n="5" facs="tcp:162317:4"/>command from his Majeſty, His Heirs or Succeſſors, without the conſent of the ſaid Lords &amp; Commons.</p>
+                  <p>And if any perſons ſhall be gathered and aſſembled togeather in warlike manner, or otherwiſe ro the num<g ref="char:EOLhyphen"/>ber of thirty perſons and ſhall forthwith disband them<g ref="char:EOLhyphen"/>ſelves being required thereto by the ſaid Lords and Commons, or any of them, eſpecially authorized for that purpoſe.</p>
+                  <p>Then ſuch perſon or perſons not ſo disbanding them<g ref="char:EOLhyphen"/>ſelves, ſhall be guilty &amp; incurr the paines of high Trea<g ref="char:EOLhyphen"/>ſon, being firſt Declared guilty of ſuch offence, by the ſaid Lords and Commons; Any Commiſſion under the Great Seale or other Warrant to the contrary notwith<g ref="char:EOLhyphen"/>ſtanding.</p>
+                  <p>And he, or they that ſhall offend herein to bee unca<g ref="char:EOLhyphen"/>pable of any pardon from His Majeſty, His Majeſty his Heires or Succeſſors, and their Eſtates ſhell be diſpo<g ref="char:EOLhyphen"/>ſed as the ſaid Lords and Commons ſhall think fit and no otherwiſe.</p>
+                  <p>Provided that the City of London, ſhall have and in<g ref="char:EOLhyphen"/>joy all their Rights, Liberties and Franchiſes, Cuſtoms and uſages in the rayſing, and imploying the forces of that City, for the defence thereof in as full and ample manner, to all intents and purpoſes, as they have or might have vſed or injoyed the ſame at any time before the making of this Act.</p>
+                  <p>
+                     <hi>Sir,</hi> The Treaty goes on very ſuccesfully, and this great buſines of the Militia being agreed on, it is hoped that his Majeſty will erre long give his Royall Aſſent to the reſt, that we may all have cauſe to bleſſe God for a happy concluſion.</p>
+                  <closer>
+                     <signed>Your affectionate friend. <hi>W.S.</hi>
+                     </signed>
+                     <dateline>Newport <date>Octob, 10.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="6" facs="tcp:162317:5"/>
+            <p> The 11 inſtant came letters that the Kings Majeſty declared his 3 ſcruples, mentioned in the laſt, which the Com. deſired to ſe before the Minſters had them.</p>
+            <p>The laſt which was the Coronation Oath, becauſe depending on the law, way judged improper, for them to reſolve, the other 2 Mr. M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſhall received, and deſi<g ref="char:EOLhyphen"/>ring to withdraw, the King conſented; after they retur<g ref="char:EOLhyphen"/>ned, Mr. Marſhall M<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>nes, &amp; Mr. Seaman ſpake: His Majeſty deſired it in w<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ing which they were willing. If the Commiſſioners thought fit, the Com. to have the Oath at Coronation and the Miniſters were Tueſday to being their anſwer which was done.</p>
+            <p>The Kings Biſhops &amp; other Clergy and the Miniſters of Parliament bring preſent Mr. Vines read it, His Maj<g ref="char:EOLhyphen"/>deſired it, promiſing to prepare an anſwer.</p>
+            <p>For the ſale of Biſhops Lands as Sacriledge, the Com<g ref="char:EOLhyphen"/>miſſioners told his Majeſty that thing lay ſo much in Laws of the Land, that the Miniſters could not judge of it, at laſt his Majeſty appeared inclinable, but ſaid, that if they were alienated, then they did revert to the Crowne.</p>
+            <p>As for the Propoſitions of the Militia, his Maj. eſty conſent thereto as is ſet down in the Propoſition.</p>
+            <closer>
+               <signed>Signed CHARLES R.</signed>
+            </closer>
+            <postscript>
+               <p>Thurſday came Letters from Newport that the Com. have delivered to the King a paper concerning Ireland which he hath promiſed ſpeedily to anſwer. And his Maj. hath delivered a reply to the Miniſters, to their an<g ref="char:EOLhyphen"/>ſwer to his Pape.</p>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
